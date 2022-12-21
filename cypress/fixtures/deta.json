@@ -1,0 +1,45 @@
+{
+
+
+  "pluginBtn" : ".chat_plugin_icon",
+  "roomTyp" : [".card.card1.active", ".card.card2"],
+  "nextBtn" : ".footer_next_btn",
+  "nameInput" : ".input_container",
+  "createRoomBtn" : ".cw_footer_create_btn",
+  "inviteBtnMenu" : ".tlss_live_show_start_expand_content .tlss_invitation_button",
+
+
+
+
+  "qaUrlTog": "https://qahost.togee.io/",
+  "sURLTog" : "https://shost.togee.io",
+  "qaUrlSho": "https://togee3.myshopify.com/",
+  "qaUrlCart" : "https://opencart.togee.io/",
+  "qaUrlLara" : "https://laravel.togee.io/",
+
+  "hostNames" : ["John","Monica","Sara","Peter","George","Hania","Asma","Naseem","Qasim","Host last","Host poko"],
+  "blackLstF" : ["god","God","GoD","gOd","wtf","Wtf","WtF","wTf","fuck", "FuCk", "fUcK","hey wtf","im not god"],
+  "blackLstP" : ["godO","iGod","iGoD","gOdPogo","wtfLo","eWtf","jiWtF","wTfuioy","fuckmon","FuCkYou","fUcKJop"],
+
+  "specChar" : ["~","`","!","@","#","$","%","^","&","*","(",")","-","_","=","+","\\","|","{}","[]","'''","\"",";",":",
+    ":libran","fojor=",";psidh df","sisa\"","#sisa","libran&","#psidh df","psidh df%","'''qopo","limos(","`lordd",
+    "fojor|","'''psidh df","limos@","|osof","limos{}","\"asim","lordd+",")psidh df","sisa{}",";qopo","qopo|","-asim",
+      "qopo`","(bsi","lordd$","'''gds","asim`","~limos","fojor+","_psidh df","gds\\","@limos","osof`","-sisa","sisa\"",
+      "&osof","fojor^",")qopo","psidh df+","{}osof","bsi(","^sisa","lordd:","[]gds","gds'''","(osof","gds@","\\sisa",
+      "fojor&","=qopo","psidh df%","~lordd","sisa(",")libran","gds~",")limos","qopo~","$lordd","limos'''","!bsi","bsi[]",
+      "*limos","limos!","!libran","lordd[]","$fojor","bsi{}","-limos","libran%","^osof","sisa`","#fojor","sisa;","\"bsi",
+        "limos@","=asim","osof|","^sisa","bsi@","+gds","bsi%",")psidh df","sisa`","`sisa","osof(","+osof","libran=",
+        "*limos","asim$","*fojor","fojor*","{}osof","bsi(","[]asim","qopo[]","&qopo","osof#","^bsi","bsi&"],
+
+  "msgArray" : ["if you need a build","let me know","i think there is something","no time to die","subtask where goes to it",
+    "never have i ever seen something","with due respect","one must try again","regards to best","peoples choice","banda insaan hona chaida","tourism good hogya sada","Tech kidan di field ay?",
+    "These are short, famous texts in English","from classic sources like the Bible","or Shakespeare. Some texts have word definitions",
+    "and explanations to help you.","ki haal chaal tohada?","ki gift aya jy?","apei nashta kar lita?", "Some of these texts are written in an old style of English.","Try to understand them, because the English",
+    "that we speak today is based on what our great,","great, great, great grandparents spoke before! Of course,","not all these texts were originally written in English.",
+    "The Bible, for example, is a translation.","Music is love","But they are all well known in English today,","and many of them express beautiful thoughts",
+    "what do you think of War?","How do humans breath?","I'm going to meeting..","See you soon","Bye","Bonjour","Ciao!",
+    "mera dimag kharab na karo","kidhr jarahy o?","concert py kab jana?","Bohat heavy nashta kia","Waqai?","dawai kha leo paaji","cricket fans bhi.. always"]
+
+
+
+}
